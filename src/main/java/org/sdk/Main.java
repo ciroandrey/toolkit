@@ -1,9 +1,9 @@
-package org.example;
+package org.sdk;
 
 import java.io.IOException;
 
-import static org.example.utils.FileUtils.saveFile;
-import static org.example.utils.StringUtils.stringSplitter;
+import static org.sdk.utils.FileUtils.saveFile;
+import static org.sdk.utils.StringUtils.stringSplitter;
 
 public class Main {
     public static void main(String[] args) throws IOException {
